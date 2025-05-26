@@ -8,7 +8,6 @@ Any issues with the Windows build should go through official channels, as this r
 
 If you have suggestions for improvements to the build process, please start a discussion or make a PR. 
 
-All installation instructions below require that [Scoop](https://scoop.sh/) is installed on your system.
 
 
 ## Vulkan doesn't work for you?
